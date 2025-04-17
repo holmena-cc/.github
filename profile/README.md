@@ -66,5 +66,3 @@ Have a project in mind or just want to say hello? We’d love to hear from you.
 ## 📄 License
 
 All public repositories are released under the [MIT License](LICENSE).
-
----
